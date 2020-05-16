@@ -10,5 +10,5 @@ Sophisticated imaging instruments on-board spacecraft orbiting different planets
 ### 1) Training
 To train the model, run:
 ```bash
-python main.py
+python main.py --cluster_num "0" 
 ```
